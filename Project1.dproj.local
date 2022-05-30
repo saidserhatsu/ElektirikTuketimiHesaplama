@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\Users\serhat\Documents\Embarcadero\Studio\Projects\mobilfinal\Unit3.fmx=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,C:\Users\serhat\Documents\Embarcadero\Studio\Projects\mobilfinal\Unit3.fmx=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\mobilfinal\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.192,=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,C:\Users\serhat\Documents\Embarcadero\Studio\Projects\mobilfinal\Project1.dproj=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\Users\serhat\Documents\Embarcadero\Studio\Projects\mobilfinal\Unit3.pas=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,C:\Users\serhat\Documents\Embarcadero\Studio\Projects\mobilfinal\Unit3.pas=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\mobilfinal\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,=C:\Users\serhat\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="sanal" Android="sanal"/>
+	</ActiveMobileDevice>
+</BorlandProject>
